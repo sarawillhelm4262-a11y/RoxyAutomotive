@@ -32,7 +32,7 @@ Our vendor that handles getting the vehicles to the lots once the loans have bee
 
 <img width="1200" height="709" alt="Image" src="https://github.com/user-attachments/assets/45b0ef7a-a73a-43e1-992f-f607af31c71b" />
 
-As stated, the following recommendations should be followed immediately:
+As stated, the following recommendations should be followed:
 1. Immediately release cash wire transfers of any loan applicants in the Tier 1/Low Risk Category. While our delinquency rates are high, these are low risk clients that could be immediate revenue.
 2. Freeze independent approval authority for Underwriter 45, and audit Underwriter 45's criteria for approving borrowers in the Midewest territory. Reroute Underwriter 45's contracts currently in Stage 2 to Underwriter 102 for review.
 3. Issue contractual warnings to Midwest Logistics to remind them of their 5-day transit cycle threshold. If they fail to comply, begin shifting volume to local transit networks to get those cars on the lots to start collecting interest.
