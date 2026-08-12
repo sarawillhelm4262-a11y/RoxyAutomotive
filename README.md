@@ -20,13 +20,17 @@ Power BI: DAX, functions, ETL, tooltips, calculated columns, data visualization,
 ## Results & Business Recommendation
 The grand totals of our numbers show a high delinquency rate. Further analysis revealed Underwriter 45 carrying the brunt of that, especially when drilling down to the Midwest Region.
 
+The funnel analysis shows that overall, across all regions, Stage 3 has less contracts than Stage 4. We have more contracts closing than we have cash coming in. 
+
 <img width="1276" height="711" alt="Image" src="https://github.com/user-attachments/assets/20a0b575-1e7d-4ba0-a065-79759bb5b1d7" />
 
 When drilling down to the Midwest Region, our visuals revealed a delinquency rate of 8.38% as shown below:
 
+
+
 <img width="1270" height="716" alt="Image" src="https://github.com/user-attachments/assets/103101e0-6c47-4fc6-82c2-581c2af13c18" />
 
-The funnel analysis shows that overall, across all regions, Stage 3 has less contracts than Stage 4. We have more contracts closing than we have cash coming in. 
+
 
 Our vendor that handles getting the vehicles to the lots once the loans have been approved, Midwest Logistics Partners, has a Service Level Agreement of 5 days, as shown below They are in breach of their SLA Agreements, averaging 23.35 days behind. Those are valuable days that Roxy Automotive could be collecting interest, but the dealerships don't have the cars on their lots.
 
