@@ -1,7 +1,7 @@
 
 # Funnel Analysis of Roxy Automotive
 ## Executive Overview
-Using Power BI, I imported data and created a star schema model and calculated measures to create a dual page report to analyze the health of my fictitious company, Roxy Automotive. After creating a funnel analysis of the various stages of the loans, I determined that the company was in an unhealthy position and needed to take these immediate action steps: 
+Using Power BI, I imported data, created a star schema model, and calculated measures to create a dual page report to analyze the health of my fictitious company, Roxy Automotive. After creating a funnel analysis of the various stages of the loans, I determined that the company was in an unhealthy position and needed to take these immediate action steps: 
 1. Release cash to any contract in the Tier 1/Low Risk Category.
 2. Freeze independent approval authority for Underwriter 45.
 3. Issue contractual warnings to Midwest Logistics.
