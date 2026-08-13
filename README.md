@@ -1,7 +1,7 @@
 
 # Funnel Analysis of Roxy Automotive
 ## Executive Overview
-Using Power BI, I imported data, created a star schema model, and calculated measures to create a dual page report to analyze the health of my fictitious company, Roxy Automotive. After creating a funnel analysis of the various stages of the loans, I determined that the company was in an unhealthy position and needed to take these immediate action steps: 
+For this analysis, I used Power BI to import data, created a star schema model to create measures and a dual page report to analyze the health of my fictitious company, Roxy Automotive. After creating a funnel analysis of the various stages of the loans, I determined that the company was in an unhealthy position and needed to take these immediate action steps: 
 1. Release cash to any contract in the Tier 1/Low Risk Category.
 2. Freeze independent approval authority for Underwriter 45.
 3. Issue contractual warnings to Midwest Logistics.
@@ -14,6 +14,9 @@ Roxy Automotive, a commercial automotive floorplan lender, wants to know why the
 1. Generated random messy data with the help of python, stored in .csv files.
 2. Used Power Query to import, clean, and transform the data, using standard ETL practices.
 3. Used Power BI Desktop to model the data using a star schema and generate the dual page report.
+
+## Data Volume & Sampling Disclosures
+To get a realistic data set for this market, I asked AI to generate the Python to randomly generate data for my tables. I specifically asked for messy data to showcase my cleaning skills. Because the dataset is small (1000 rows in the fact table), the dispersement of dates did not reach all months, creating zero drops and broken trends. Date slicers and values were intentionally left out of the reports. They focus instead on categorical value rankings and proportional risk concentrations.
 
 ## Skills
 Power BI: DAX, functions, ETL, tooltips, calculated columns, data visualization, data modeling
@@ -41,4 +44,4 @@ Our vendor that handles getting the vehicles to the lots once the loans have bee
 As stated, the following recommendations should be followed:
 1. Immediately release cash wire transfers of any loan applicants in the Tier 1/Low Risk Category. While our delinquency rates are high, these are low risk clients that could be immediate revenue.
 2. Freeze independent approval authority for Underwriter 45, and audit Underwriter 45's criteria for approving borrowers in the Midewest territory. Reroute Underwriter 45's contracts currently in Stage 2 to Underwriter 102 for review.
-3. Issue contractual warnings to Midwest Logistics to remind them of their 5-day transit cycle threshold. If they fail to comply, begin shifting volume to local transit networks to get those cars on the lots to start collecting interest.
+3. Issue contractual warnings to Midwest Logistics to remind them of their 5-day transit cycle threshold. If they fail to comply, begin shifting volume to local transit networks to transport them to their destinations.
