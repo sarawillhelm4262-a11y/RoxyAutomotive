@@ -1,0 +1,4 @@
+vendor_code,vendor_name,vendor_tier,contract_sla_days,vendor_status,assigned_account_manager
+VNDR_A,Midwest Logistics Partners,Tier 1 - Strategic,5,Active,Sarah Jenkins
+VNDR_B,Apex Field Asset Audits,Tier 2 - Preferred,7,Under Review,Marcus Vance
+VNDR_C,Crossroads Transport Corp,Tier 3 - Transactional,12,On Probation,David Miller
